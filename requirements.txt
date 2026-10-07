@@ -1,0 +1,21 @@
+# versions the notebook was run with (Python 3.13, CPU only)
+sherpa-onnx==1.13.8
+onnx==1.23.2
+onnxruntime==1.29.0
+torch==2.14.1
+spacy==3.8.16
+spacy-curated-transformers==0.3.1
+curated-transformers==0.1.1
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+en_core_web_trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.8.0/en_core_web_trf-3.8.0-py3-none-any.whl
+scikit-learn==1.9.1
+lightgbm==4.7.0
+librosa==1.0.0
+soundfile==0.14.0
+wordfreq==3.1.1
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.5
+pyarrow==25.0.1
+matplotlib==3.11.2
+jupyter
